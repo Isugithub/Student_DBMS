@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703243502 source:e:\c programming\student_dbms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
